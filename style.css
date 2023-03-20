@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+
+body{
+    background-color: red;
+    background-image: url(../1.jpg);
+    background-size: auto;
+    align-content: center;
+    text-align: center;
+}
+
+ul { 
+   
+    border: 1px solid black; 
+  
+}
+
+.finished{
+    text-decoration: line-through;
+}
